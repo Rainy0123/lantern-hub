@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
-local Window = Library.CreateLib("TITLE", "Sentinel")
+local Window = Library.CreateLib("Lantern Hub V1| Made by XY#5862", "Sentinel")
 
 --- Aresnal Tab
 local Tab = Window:NewTab("Aresnal")
